@@ -50,6 +50,12 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="Microsoft.AppCenter.Analytics" Version="5.0.1" />
+		<PackageReference Include="Microsoft.AppCenter.Crashes" Version="5.0.1" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="Microsoft.AppCenter.Analytics" />
+	  <None Remove="Microsoft.AppCenter.Crashes" />
+	</ItemGroup>
 </Project>

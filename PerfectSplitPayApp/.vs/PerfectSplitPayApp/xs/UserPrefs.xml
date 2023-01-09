@@ -1,4 +1,39 @@
 ﻿<Properties StartupConfiguration="{F9C8058A-9585-4C21-839F-44FA9D70808E}|Default">
-  <MonoDevelop.Ide.ItemProperties.PerfectSplitPayApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PerfectSplitPayApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PerfectSplitPayApp/App.xaml.cs">
+    <Files>
+      <File FileName="PerfectSplitPayApp/MainPage.xaml.cs" Line="27" Column="52" />
+      <File FileName="PerfectSplitPayApp/MainPage.xaml" />
+      <File FileName="PerfectSplitPayApp/AppShell.xaml" />
+      <File FileName="PerfectSplitPayApp/App.xaml" Line="1" Column="1" />
+      <File FileName="PerfectSplitPayApp/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="PerfectSplitPayApp/Platforms/iOS/AppDelegate.cs" Line="4" Column="35" />
+      <File FileName="PerfectSplitPayApp/Platforms/Android/MainActivity.cs" Line="6" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PerfectSplitPayApp" expanded="True">
+            <Node name="PerfectSplitPayApp" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
