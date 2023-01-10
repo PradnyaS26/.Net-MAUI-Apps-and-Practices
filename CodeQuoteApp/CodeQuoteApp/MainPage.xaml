@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CodeQuoteApp.MainPage">
+<Grid x:Name="background">
+    <Grid.Background>
+        <LinearGradientBrush  EndPoint="1,1">
+            <GradientStopCollection>
+                <GradientStop Offset="0" Color="#051937"/>
+                <GradientStop Offset="0.25" Color="#004d7a"/>
+                <GradientStop Offset="0.50" Color="#008793"/>
+                <GradientStop Offset="0.75" Color="#00bf72"/>
+                <GradientStop Offset="1" Color="#a8eb12"/>
+            </GradientStopCollection>
+        </LinearGradientBrush>
+
+    </Grid.Background>
+
+    <Grid Margin="25" RowDefinitions="8*,2*">
+
+    <Label x:Name="lblquote"
+           FontSize="50"
+           HorizontalTextAlignment="Center"
+           VerticalOptions="Center"
+           Text="They don't make bugs like bunny anymore. - Olav Mjelde "
+           FontFamily="MainFont"
+           TextColor="Black"/>
+    <Button Grid.Row="1"
+            Clicked="Button_Clicked"
+            x:Name="btnNewQuote"
+            BackgroundColor="Black"
+            Opacity=".4"
+            FontSize="Title"
+            Text="Get New Quote"/>
+</Grid>
+</Grid>
+
+</ContentPage>
+
