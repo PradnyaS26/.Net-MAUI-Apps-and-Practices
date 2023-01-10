@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>PerfectSplitPayApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>PerfectSplitPayApp.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp</SourceProjectPath>
+      <SourceProjectPath>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

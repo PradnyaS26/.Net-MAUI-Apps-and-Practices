@@ -21678,11 +21678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
+      "projectUniqueName": "/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
       "projectName": "PerfectSplitPayApp",
-      "projectPath": "/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
+      "projectPath": "/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
       "packagesPath": "/Users/pradnya.suryavanshi/.nuget/packages/",
-      "outputPath": "/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp/obj/",
+      "outputPath": "/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

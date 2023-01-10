@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMDJxoF0vPiMslxtuqVYGlRIdUicmePGsma60LCjIrEtpwS5HoVt27qSGI+yKcIZ3ROjlCsS4NOsyHnSgwPG6w==",
+  "dgSpecHash": "mjWF44k+q4+ZG4l5hvSQm16v71CIreE3fgeG+ZTsAvpboKxg1BUFQyPRlU6bLDKDdPfpD+IRgBrQUYZoZdqiyg==",
   "success": true,
-  "projectFilePath": "/Users/pradnya.suryavanshi/Desktop/Perfect-Split-Pay-App-dotNetMAUI/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
+  "projectFilePath": "/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PerfectSplitPayApp/PerfectSplitPayApp/PerfectSplitPayApp.csproj",
   "expectedPackageFiles": [
     "/Users/pradnya.suryavanshi/.nuget/packages/googlegson/2.9.1/googlegson.2.9.1.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.appcenter/5.0.1/microsoft.appcenter.5.0.1.nupkg.sha512",
