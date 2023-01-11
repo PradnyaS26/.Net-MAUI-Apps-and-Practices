@@ -1,8 +1,7 @@
 ﻿namespace PracticeDataBinding;
-
+using Models;
 public partial class MainPage : ContentPage
 {
-	int count = 0;
 
 	public MainPage()
 	{
@@ -11,14 +10,21 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
-		count++;
+		var person = new Person
+		{
+			Name = "Pradnya",
+			Phone = "9999",
+			Address = "Pune"
 
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
+		};
+		BindingContext = person;
+		//txtName.BindingContext = person;
+		//txtName.SetBinding(Label.TextProperty, "Name");
 
-		SemanticScreenReader.Announce(CounterBtn.Text);
+		//Binding personBinding = new Binding();
+		//personBinding.Source = person;
+		//personBinding.Path = "Name";
+		//txtName.SetBinding(Label.TextProperty, personBinding);
 	}
 }
 
