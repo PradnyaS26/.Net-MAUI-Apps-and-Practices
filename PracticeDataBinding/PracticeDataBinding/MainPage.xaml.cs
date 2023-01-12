@@ -13,7 +13,6 @@ public partial class MainPage : ContentPage
             Name = "Pradnya",
             Phone = "9999",
             Address = "Pune"
-
         };
         BindingContext = person;
 
