@@ -7,7 +7,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new BindingModes();
+		MainPage = new MainPage();
 	}
 }
 

@@ -1,23 +1,30 @@
 ﻿namespace PracticeDataBinding;
+
 using Models;
 public partial class MainPage : ContentPage
 {
+	Person person = new Person();
 
 	public MainPage()
 	{
 		InitializeComponent();
-	}
+        person = new Person
+        {
+            Name = "Pradnya",
+            Phone = "9999",
+            Address = "Pune"
 
-	private void OnCounterClicked(object sender, EventArgs e)
+        };
+        BindingContext = person;
+
+    }
+
+    private void OnCounterClicked(object sender, EventArgs e)
 	{
-		var person = new Person
-		{
-			Name = "Pradnya",
-			Phone = "9999",
-			Address = "Pune"
-
-		};
-		BindingContext = person;
+		person.Name = "Ajay";
+		person.Phone = "1111";
+		person.Address = "Pune";
+		 
 		//txtName.BindingContext = person;
 		//txtName.SetBinding(Label.TextProperty, "Name");
 
@@ -27,5 +34,4 @@ public partial class MainPage : ContentPage
 		//txtName.SetBinding(Label.TextProperty, personBinding);
 	}
 }
-
 
