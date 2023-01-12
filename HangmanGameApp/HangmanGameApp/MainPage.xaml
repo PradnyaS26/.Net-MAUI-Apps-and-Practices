@@ -3,29 +3,41 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HangmanGameApp.MainPage">
 
-    <Grid RowDefinitions=".6*,.4*">
-        <VerticalStackLayout>
+    <Grid RowDefinitions=".6*,.4*" >
+        <VerticalStackLayout Spacing="10">
             <Label FontAttributes="Bold"
                    HorizontalOptions="Center"
-                   Text="Errors: 0 of 6"/>
-            <Image Source="img0.jpg" HeightRequest="200"/>
+                   Text="{Binding GameStatus}"/>
+            <Image Source="{Binding CurrentImage}" HeightRequest="200"/>
             <Label FontSize="40"
                    HorizontalOptions="Center"
-                   Text="_ _ C _ _"
+                   Text="{Binding Spotlight}"
                    VerticalOptions="Center"/>
             <Label FontSize="Large"
                    HorizontalTextAlignment="Center"
-                   Text="You Lost!"/>
+                   Text="{Binding Message}"/>
             <Button HorizontalOptions="Center"
                     Text="Reset"
-                    WidthRequest="100"/>
-        </VerticalStackLayout>
-        <FlexLayout Grid.Row="1" Wrap="Wrap" JustifyContent="SpaceEvenly">
-            <Button HeightRequest="50"
-                    WidthRequest="50"
-                    Background="navy"
-                    Text="A"/>
+                    WidthRequest="100"
+                    Clicked="Reset_Clicked"/>
 
+        </VerticalStackLayout>
+
+        <FlexLayout x:Name="LettersContainer"
+                    Grid.Row="1" Wrap="Wrap"
+                    JustifyContent="SpaceEvenly"
+                    BindableLayout.ItemsSource="{Binding Letters}">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+
+                     <Button HeightRequest="50"
+                             WidthRequest="50"
+                             Text="{Binding .}"
+                             Clicked="Button_Clicked"/>
+
+
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
         </FlexLayout>
 
 
