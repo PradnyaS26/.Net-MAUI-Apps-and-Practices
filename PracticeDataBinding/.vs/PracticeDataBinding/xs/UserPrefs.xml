@@ -15,13 +15,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PracticeDataBinding" expanded="True">
-            <Node name="PracticeDataBinding" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="PracticeDataBinding" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
