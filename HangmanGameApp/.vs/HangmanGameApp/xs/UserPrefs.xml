@@ -1,10 +1,22 @@
 ﻿<Properties StartupConfiguration="{A951EADF-3C97-4942-BBC7-4A61BCF6CFED}|Default">
+<<<<<<< Updated upstream
   <MonoDevelop.Ide.ItemProperties.HangmanGameApp PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HangmanGameApp" expanded="True" selected="True">
+=======
+  <MonoDevelop.Ide.ItemProperties.HangmanGameApp PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HangmanGameApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="HangmanGameApp/MainPage.xaml.cs" Line="159" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HangmanGameApp" expanded="True">
+>>>>>>> Stashed changes
             <Node name="HangmanGameApp" expanded="True" />
           </Node>
         </State>
@@ -13,9 +25,17 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+<<<<<<< Updated upstream
+=======
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+>>>>>>> Stashed changes
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+<<<<<<< Updated upstream
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+=======
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+>>>>>>> Stashed changes
 </Properties>
