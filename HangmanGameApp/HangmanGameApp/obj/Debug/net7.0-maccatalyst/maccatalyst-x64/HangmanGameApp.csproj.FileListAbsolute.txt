@@ -257,3 +257,10 @@
 /Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/HangmanGameApp.pdb
 /Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/HangmanGameApp.genruntimeconfig.cache
 /Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/HangmanGameApp.dll
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img0.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img1.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img2.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img3.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img4.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img5.jpg
+/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/HangmanGameApp/HangmanGameApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/img6.jpg
