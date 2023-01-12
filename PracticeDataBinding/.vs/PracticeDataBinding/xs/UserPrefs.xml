@@ -15,7 +15,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PracticeDataBinding" expanded="True" selected="True" />
+          <Node name="PracticeDataBinding" expanded="True" />
         </State>
       </Pad>
     </Pads>
