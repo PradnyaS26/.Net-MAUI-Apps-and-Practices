@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{DFC93529-0C31-4A4F-8B13-D752136C8164}|Default">
+<Properties StartupConfiguration="{DFC93529-0C31-4A4F-8B13-D752136C8164}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -15,7 +15,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PracticeDataBinding" expanded="True" />
+          <Node name="PracticeDataBinding" expanded="True" selected="True"/>
         </State>
       </Pad>
     </Pads>
