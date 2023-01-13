@@ -50,6 +50,39 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="MVVM\" />
+	  <None Remove="MVVM\Models\" />
+	  <None Remove="MVVM\Views\" />
+	  <None Remove="MVVM\ViewModels\" />
+	  <None Remove="MVVM\Converters\" />
+	  <None Remove="PropertyChanged.Fody" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="MVVM\" />
+	  <Folder Include="MVVM\Models\" />
+	  <Folder Include="MVVM\Views\" />
+	  <Folder Include="MVVM\ViewModels\" />
+	  <Folder Include="MVVM\Converters\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Update="MVVM\Views\PersonView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\PeopleView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\ConvertersView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\CommandsVie.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\FodyDemoView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	</ItemGroup>
 </Project>

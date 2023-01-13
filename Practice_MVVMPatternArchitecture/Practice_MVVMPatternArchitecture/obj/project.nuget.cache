@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nGN5iirJ7Iz1NN0WJcT45pzAlMgZBb+nXNcJfQD1B6TrAqAjrC8UffFOoImDrwDZIvzK/bZeXmHqesS+LY81iw==",
+  "dgSpecHash": "A0evcNQIfLGITCFV9sTimihfU0cDZwM50ycv7eanj1Rg6xCeEebxFSz5t5WpqgKEgllUUqUzkOGZg9ojafx4aA==",
   "success": true,
   "projectFilePath": "/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/Practice_MVVMPatternArchitecture/Practice_MVVMPatternArchitecture/Practice_MVVMPatternArchitecture.csproj",
   "expectedPackageFiles": [
+    "/Users/pradnya.suryavanshi/.nuget/packages/fody/6.6.4/fody.6.6.4.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/googlegson/2.9.1/googlegson.2.9.1.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/microsoft.maui.graphics/7.0.49/microsoft.maui.graphics.7.0.49.nupkg.sha512",
+    "/Users/pradnya.suryavanshi/.nuget/packages/propertychanged.fody/4.1.0/propertychanged.fody.4.1.0.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/pradnya.suryavanshi/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

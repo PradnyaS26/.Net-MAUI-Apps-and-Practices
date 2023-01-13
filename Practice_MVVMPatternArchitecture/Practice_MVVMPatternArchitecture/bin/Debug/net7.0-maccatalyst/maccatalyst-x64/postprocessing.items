@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Practice_MVVMPatternArchitecture.app/Contents/MacOS/Practice_MVVMPatternArchitecture">
+      <BCSymbolMapName>Practice_MVVMPatternArchitecture.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Practice_MVVMPatternArchitecture.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/Practice_MVVMPatternArchitecture/Practice_MVVMPatternArchitecture/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Practice_MVVMPatternArchitecture.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/Practice_MVVMPatternArchitecture/Practice_MVVMPatternArchitecture</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
