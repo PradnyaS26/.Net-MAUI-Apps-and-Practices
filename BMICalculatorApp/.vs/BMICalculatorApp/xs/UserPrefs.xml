@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{CA6C645C-FF53-4E1E-8CEF-BA9F5F4A9731}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculatorApp/MVVM/Models/BMIModel.cs">
+    <Files>
+      <File FileName="BMICalculatorApp/MVVM/Views/BMIView.xaml" Line="100" Column="58" />
+      <File FileName="BMICalculatorApp/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="BMICalculatorApp/MVVM/ViewModels/BMIViewModel.cs" Line="8" Column="1" />
+      <File FileName="BMICalculatorApp/MVVM/Models/BMIModel.cs" Line="53" Column="18" />
+      <File FileName="BMICalculatorApp/MVVM/Views/BMIView.xaml.cs" Line="8" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMICalculatorApp" expanded="True">
+            <Node name="BMICalculatorApp" expanded="True">
+              <Node name="MVVM" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="BMIModel.cs" selected="True" />
+                </Node>
+                <Node name="ViewModels" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="BMIView.xaml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.BMICalculatorApp PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+</Properties>
