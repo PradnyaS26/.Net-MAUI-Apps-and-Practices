@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="{1D9DAC58-CBF3-4884-89C7-80E9B53C7425}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnitConverterApp/MVVM/Views/MenuView.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitConverterApp/MVVM/Views/ConverterView.xaml.cs">
     <Files>
-      <File FileName="UnitConverterApp/MVVM/Views/ConverterView.xaml" Line="1" Column="1" />
-      <File FileName="UnitConverterApp/MVVM/Views/ConverterView.xaml.cs" Line="1" Column="1" />
-      <File FileName="UnitConverterApp/MVVM/ViewModels/ConverterViewModel.cs" Line="1" Column="1" />
-      <File FileName="UnitConverterApp/MVVM/Views/MenuView.xaml" Line="32" Column="74" />
-      <File FileName="UnitConverterApp/MVVM/Views/MenuView.xaml.cs" Line="11" Column="37" />
+      <File FileName="UnitConverterApp/MVVM/Views/ConverterView.xaml" Line="5" Column="27" />
+      <File FileName="UnitConverterApp/MVVM/Views/ConverterView.xaml.cs" Line="8" Column="22" />
+      <File FileName="UnitConverterApp/MVVM/ViewModels/ConverterViewModel.cs" Line="23" Column="8" />
+      <File FileName="UnitConverterApp/MVVM/Views/MenuView.xaml" Line="219" Column="9" />
+      <File FileName="UnitConverterApp/MVVM/Views/MenuView.xaml.cs" Line="23" Column="2" />
+      <File FileName="UnitConverterApp/App.xaml.cs" Line="9" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UnitConverterApp" expanded="True">
-            <Node name="UnitConverterApp" expanded="True">
+            <Node name="UnitConverterApp" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="MVVM" expanded="True">
                 <Node name="ViewModels" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="MenuView.xaml.cs" selected="True" />
-                </Node>
+                <Node name="Views" expanded="True" />
               </Node>
             </Node>
           </Node>
