@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practice_Styles.StyleClassView"
+             Title="StyleClassView">
+    <ContentPage.Resources>
+        
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            <Setter Property="TextColor" Value="{AppThemeBinding Dark=White, Light=Black}"/>
+            <Setter Property="FontSize" Value="Title"/>
+        </Style>
+        <Style TargetType="Button" Class="ButtonText">
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+        <Style TargetType="Button" Class="LightButtonText">
+            <Setter Property="BackgroundColor" Value="LightGray"/>
+            <Setter Property="TextColor" Value="Black"/>
+        </Style>
+        <Style TargetType="Button" Class="DarkButtonText">
+            <Setter Property="BackgroundColor" Value="Purple"/>
+            <Setter Property="TextColor" Value="White"/>
+        </Style>
+    </ContentPage.Resources>
+
+    <VerticalStackLayout>
+        <Label Text="HEY !" />
+        <Button Text=".net maui" StyleClass="ButtonText, DarkButtonText"/>
+        <Button Text=".net maui" StyleClass="ButtonText, LightButtonText"/>
+
+    </VerticalStackLayout>
+</ContentPage>

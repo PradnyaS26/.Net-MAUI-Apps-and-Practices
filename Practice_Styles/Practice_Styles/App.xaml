@@ -1,0 +1,64 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Practice_Styles"
+             x:Class="Practice_Styles.App">
+    <!--<Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
+                <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>-->
+
+    <!--#region GLOBAL STYLES-->
+
+    <Application.Resources>
+
+<!--GLOBAL STYLES-->
+        <!--<ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <Color x:Key="bgColor">#db3a34</Color>
+                    <Color x:Key="textcolor">#ffc857</Color>
+                </ResourceDictionary>
+                  <ResourceDictionary Source="Practice_Styles/Resources/Styles/ButtonStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>-->
+       
+        <Color x:Key="bgColor">#db3a34</Color>
+        <Color x:Key="textcolor">#ffc857</Color>
+       
+<!--IMPLICIT STYLE-->
+        <Style TargetType="VerticalStackLayout">
+          <Setter Property="VerticalOptions" Value="Center"/>
+          <Setter Property="Padding" Value="30,0"/>
+          <Setter Property="Spacing" Value="25"/>
+        </Style>
+
+       
+<!--EXPLICIT STYLE-->
+        <Style TargetType="Button" x:Key="baseStyle">
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="TextColor" Value="{StaticResource textcolor}"/>
+        </Style>
+<!--INHERITANCE OF STYLES-->
+        <Style TargetType="Button"
+               BasedOn="{StaticResource baseStyle}">
+            <Setter Property="BackgroundColor" Value="{StaticResource bgColor}"/>
+        </Style>
+
+        <Style TargetType="Button"
+               x:Key="SpecialButton"
+               BasedOn="{StaticResource baseStyle}">
+            <Setter Property="BackgroundColor" Value="Purple"/>
+        </Style>
+
+    </Application.Resources>
+
+    <!--#endregion-->
+</Application>
+
