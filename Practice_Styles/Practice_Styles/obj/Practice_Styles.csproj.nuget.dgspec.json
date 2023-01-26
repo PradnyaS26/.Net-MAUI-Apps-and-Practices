@@ -31,11 +31,11 @@
             "targetAlias": "net7.0-android",
             "projectReferences": {}
           },
-          "net7.0-ios16.0": {
+          "net7.0-ios16.1": {
             "targetAlias": "net7.0-ios",
             "projectReferences": {}
           },
-          "net7.0-maccatalyst15.4": {
+          "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
             "projectReferences": {}
           }
@@ -76,7 +76,7 @@
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.49, )",
+              "version": "[7.0.58, )",
               "autoReferenced": true
             },
             "Xamarin.Android.Glide": {
@@ -86,37 +86,37 @@
             },
             "Xamarin.AndroidX.Browser": {
               "target": "Package",
-              "version": "[1.4.0.2, )",
+              "version": "[1.4.0.3, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Legacy.Support.V4": {
               "target": "Package",
-              "version": "[1.0.0.14, )",
+              "version": "[1.0.0.15, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Lifecycle.LiveData": {
               "target": "Package",
-              "version": "[2.5.1, )",
+              "version": "[2.5.1.1, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Navigation.Common": {
               "target": "Package",
-              "version": "[2.5.2, )",
+              "version": "[2.5.2.1, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Navigation.Fragment": {
               "target": "Package",
-              "version": "[2.5.2, )",
+              "version": "[2.5.2.1, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Navigation.Runtime": {
               "target": "Package",
-              "version": "[2.5.2, )",
+              "version": "[2.5.2.1, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Navigation.UI": {
               "target": "Package",
-              "version": "[2.5.2, )",
+              "version": "[2.5.2.1, )",
               "autoReferenced": true
             },
             "Xamarin.AndroidX.Security.SecurityCrypto": {
@@ -126,12 +126,12 @@
             },
             "Xamarin.Google.Android.Material": {
               "target": "Package",
-              "version": "[1.6.1.1, )",
+              "version": "[1.7.0, )",
               "autoReferenced": true
             },
             "Xamarin.Google.Crypto.Tink.Android": {
               "target": "Package",
-              "version": "[1.7.0, )",
+              "version": "[1.7.0.1, )",
               "autoReferenced": true
             }
           },
@@ -163,9 +163,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         },
-        "net7.0-ios16.0": {
+        "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
@@ -194,7 +194,7 @@
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.49, )",
+              "version": "[7.0.58, )",
               "autoReferenced": true
             }
           },
@@ -226,9 +226,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         },
-        "net7.0-maccatalyst15.4": {
+        "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
@@ -257,7 +257,7 @@
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.49, )",
+              "version": "[7.0.58, )",
               "autoReferenced": true
             }
           },
@@ -290,7 +290,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
