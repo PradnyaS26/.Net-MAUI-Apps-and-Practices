@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F0E4E35A-8D32-408E-A683-678D8E1C7645}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8003D250-8142-4C74-AD74-F10DEE6B6ACC" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8003D250-8142-4C74-AD74-F10DEE6B6ACC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApp/MVVM/Views/CalculatorView.xaml">
+    <Files>
+      <File FileName="CalculatorApp/MVVM/Views/CalculatorView.xaml" Line="34" Column="47" />
+      <File FileName="CalculatorApp/MVVM/ViewModels/CalculatorViewModel.cs" Line="38" Column="43" />
+      <File FileName="CalculatorApp/MVVM/Views/CalculatorView.xaml.cs" Line="2" Column="37" />
+      <File FileName="CalculatorApp/App.xaml" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorApp" expanded="True">
+            <Node name="CalculatorApp" expanded="True">
+              <Node name="MVVM" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="CalculatorView.xaml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" selected="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
