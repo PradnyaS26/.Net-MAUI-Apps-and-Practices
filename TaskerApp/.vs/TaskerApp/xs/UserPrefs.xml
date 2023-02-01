@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{2A6B9749-9543-465A-9DAF-99C254312345}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskerApp PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskerApp/MVVM/Views/NewTaskView.xaml">
+    <Files>
+      <File FileName="TaskerApp/MVVM/Views/NewTaskView.xaml" Line="37" Column="87" />
+      <File FileName="TaskerApp/MVVM/ViewModels/NewTaskViewModel.cs" Line="12" Column="1" />
+      <File FileName="TaskerApp/MVVM/Views/NewTaskView.xaml.cs" Line="8" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskerApp" expanded="True">
+            <Node name="TaskerApp" expanded="True">
+              <Node name="Converters" expanded="True" />
+              <Node name="MVVM" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="ViewModels" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="MainView.xaml" expanded="True" selected="True" />
+                  <Node name="NewTaskView.xaml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

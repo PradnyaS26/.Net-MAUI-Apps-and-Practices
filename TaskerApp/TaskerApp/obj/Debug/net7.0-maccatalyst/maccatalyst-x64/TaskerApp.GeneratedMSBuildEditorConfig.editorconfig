@@ -1,0 +1,60 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskerApp
+build_property.ProjectDir = /Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/MVVM/Views/MainView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MVVM.Views.MainView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/Views/MainView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/Views/MainView.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/MVVM/Views/NewTaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MVVM.Views.NewTaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/Views/NewTaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/Views/NewTaskView.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/AppStyles.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/TaskerApp/TaskerApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
