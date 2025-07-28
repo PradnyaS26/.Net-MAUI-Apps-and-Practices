@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeDataBinding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e9b3a59e5a61cda5c0ed245c26dc6e9519db4310")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeDataBinding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeDataBinding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

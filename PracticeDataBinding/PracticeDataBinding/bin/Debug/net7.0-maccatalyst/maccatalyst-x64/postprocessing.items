@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>PracticeDataBinding.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PracticeDataBinding/PracticeDataBinding/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/pradnyas/Desktop/Net-MAUI-Apps-and-Practices/PracticeDataBinding/PracticeDataBinding/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>PracticeDataBinding.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/pradnya.suryavanshi/Desktop/Net-MAUI-Apps-and-Practices/PracticeDataBinding/PracticeDataBinding</SourceProjectPath>
+      <SourceProjectPath>/Users/pradnyas/Desktop/Net-MAUI-Apps-and-Practices/PracticeDataBinding/PracticeDataBinding</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
